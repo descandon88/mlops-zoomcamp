@@ -1,0 +1,15 @@
+# core
+pandas
+numpy
+scikit-learn
+pyarrow
+fastparquet
+hyperopt 
+xgboost
+# MLflow
+mlflow
+xgboost
+hyperopt
+# visualización
+matplotlib
+seaborn
